@@ -17,3 +17,27 @@
     background-color: mistyrose;
 
 }
+
+.text-shadow {
+    text-shadow: 2px 2px #000;
+}
+
+/* slide 1*/
+#page_1_round_padding {
+    z-index: 10;
+}
+@media (min-width: 320px) {
+    #page_1_round_padding {
+        margin-right: -15px;
+    }
+}
+@media (min-width: 568px) {
+    #page_1_round_padding {
+        margin-right: -20px;
+    }
+}
+@media (min-width: 576px) {
+    #page_1_round_padding {
+        margin-right: -45px;
+    }
+}
