@@ -15,17 +15,8 @@
     border-width: 2px;
     padding: 5px 10px 5px 10px;
     background-color: mistyrose;
-}
 
-.blue_square_buble
-    {
-    border-color: black;
-    box-shadow: 0 0 10px rgba(0,0,0,0.5);
-    border-width: 2px;
-    padding: 5px 10px 5px 10px;
-    background-color: aliceblue;
-    font-size: 10px;
-    }
+}
 
 .text-shadow {
     text-shadow: 2px 2px #000;
