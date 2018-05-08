@@ -6,7 +6,14 @@
     padding: 5px 10px 5px 10px;
     background-color: aliceblue;
 }
-
+.yellow_buble {
+    border-radius: 7px;
+    border-color: black;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border-width: 2px;
+    padding: 5px 10px 5px 10px;
+    background-color: #FFCC00;
+}
 .rose_buble{
 
     border-radius: 7px;
@@ -15,7 +22,14 @@
     border-width: 2px;
     padding: 5px 10px 5px 10px;
     background-color: mistyrose;
-
+}
+.green_buble{
+    border-radius: 7px;
+    border-color: black;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border-width: 2px;
+    padding: 5px 10px 5px 10px;
+    background-color: green;
 }
 
 .text-shadow {
