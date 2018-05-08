@@ -54,3 +54,27 @@
     margin: 3px 3px 3px 3px;
 
 }
+
+.h2_white {
+	text-shadow: 0 0 10px rgba(0,0,0,0.5);
+    color: #FFFFFF; 
+	
+}
+
+.s_info
+{
+box-shadow: 0 0 30px rgb(209, 236, 241,0.5);
+}
+
+.s_warning
+{
+box-shadow: 0 0 30px rgb(255, 243, 205,0.5);
+}
+
+.s_success
+{
+box-shadow: 0 0 30px rgb(212, 237, 218,0.5);
+}
+
+
+
