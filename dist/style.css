@@ -87,6 +87,10 @@ box-shadow: 0 0 30px rgb(248, 215, 218,0.5);
 	    box-shadow: 0 0 30px rgb(204, 229, 255,0.5);
 }
 
+.white_bg_img
+{
+    margin-top:auto;margin-bottom:auto; background-color: #fff;
+}
 
 
 
